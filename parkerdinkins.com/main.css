@@ -26,3 +26,10 @@ p {
     padding-top: 1%;
     padding-left: 5%;
 }
+
+p a {
+    color: rgb(108, 184, 98);
+    padding-top: 1%;
+    padding-left: 5%;
+    text-decoration: none;
+}
