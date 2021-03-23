@@ -1,5 +1,5 @@
 # jpd
 My personal websites
 
-- [parkerdinkins](http://parkerdinkins.com/)
-- [johnparkerdinkins](http://johnparkerdinkins.com/)
+- [parkerdinkins.com](http://parkerdinkins.com/)
+- [johnparkerdinkins.com](http://johnparkerdinkins.com/)
