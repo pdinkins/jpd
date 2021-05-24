@@ -8,7 +8,7 @@ about.addEventListener('click', () => {
     title: 'About Me',
     // modal: true,
     width: '400px',
-    height: '400px',
+    height: '500px',
     top: 15,
     right: 15,
     bottom: 15,
